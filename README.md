@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Awan Kun
 - 👀 I’m interested in web
-- 🌱 I’m currently learning Web Security and Bug Bug bounty
+- 🌱 I’m currently learning Web Security and Bug bounty
 - 📫 How to reach me pwn0x1@gmail.com
 
 <!---
